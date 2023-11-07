@@ -11,7 +11,7 @@
 
 - ✨ &nbsp; I highlight my involvement in the development of a first software prototype using agile software development frameworks like Scrum.
 
-- 🌎 &nbsp; I'm From Chile! ~ Languages: Spanish (Native) | English B1 Level.
+- 🌎 &nbsp; I'm from Chile! ~ Languages: Spanish (Native) | English B1 Level.
 
 - 
 
