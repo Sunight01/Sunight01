@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there 👋<h2> I'm Kevin!</h2>
 
-<!--
-**Sunight01/Sunight01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Here are some ideas to get you started:
+<h3> 👨🏻•💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🎓 &nbsp; I'm a Computer Engineering at Universidad Andrés Bello.
+
+- 🌱 &nbsp; Learning about FrontEnd, Software Engineering.
+
+- ✨ &nbsp; I highlight my involvement in the development of a first software prototype using agile software development frameworks like Scrum.
+
+- 🌎 &nbsp; Languages: Spanish (Native) | English B1 Level.
+
+
+<h3>🛠 Skills</h3>
+
+
+
+- 💻 &nbsp; Python | C++ | MongoDB | SQL
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; Git | NextJS | Django | flask
+
+<hr>
+
+Thank you for visiting my profile!
+
+<br/><br/>
