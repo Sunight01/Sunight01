@@ -20,15 +20,11 @@
 
 
 
-- 💻 &nbsp; Python | C++ | MongoDB | SQL
+- 💻 &nbsp; Python | C++ | MongoDB | SQL 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Astro | Express
 
 
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; Git | NextJS | Django | flask
 
 <hr>
 
