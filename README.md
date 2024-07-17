@@ -22,7 +22,7 @@
 
 - 💻 &nbsp; Python | C++ | MongoDB | SQL 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Astro | Express
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Astro | ExpressJS | NodeJS
 
 
 
